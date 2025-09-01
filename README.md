@@ -1,5 +1,3 @@
-![Checkerboard 10x7 squares (25mm)](checkerboard_7x10_squares_25mm.png)
-
 # Checkerboard Camera Calibration (OpenCV)
 
 This repository contains a Python script to estimate camera intrinsics **fx, fy, cx, cy** and distortion coefficients from images (or sampled video frames) of a printed checkerboard.
